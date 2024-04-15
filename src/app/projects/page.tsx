@@ -41,7 +41,7 @@ function Projects() {
                 >
                   <Image
                     className="object-cover h-auto absolute rounded-[40px] hover:translate-x-[20px] transition-all"
-                    src="/localizador.png"
+                    src="../../../public/localizador.png"
                     layout="fill"
                     alt="Web Football Data"
                   />
@@ -83,7 +83,7 @@ function Projects() {
                 >
                   <Image
                     className="object-cover h-auto absolute rounded-[40px] hover:translate-x-[20px] transition-all"
-                    src="/imageProcessor.png"
+                    src="../../../public/imageProcessor.png"
                     layout="fill"
                     alt="Image Processor"
                   />
@@ -126,7 +126,7 @@ function Projects() {
                 >
                   <Image
                     className="object-cover h-auto absolute rounded-[40px] hover:translate-x-[20px] transition-all"
-                    src="/footballData.png"
+                    src="../../../public/footballData.png"
                     layout="fill"
                     alt="Web Football Data"
                   />

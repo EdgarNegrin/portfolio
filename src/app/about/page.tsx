@@ -25,7 +25,7 @@ function About() {
             </p>
           </div>
           <Image
-            src="/FotoSilla.jpg"
+            src="FotoSilla.jpg"
             width={400}
             height={400}
             alt="Profile image"

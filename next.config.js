@@ -10,15 +10,3 @@ const nextConfig = {
     ];
   },
 };
-
-module.exports = nextConfig;
-
-module.exports = {
-  exportPathMap: async function () {
-    return {
-      '/': { page: '/about' },
-      '/about': { page: '/about' },
-      '/projects': { page: '/projects' },
-    };
-  },
-};

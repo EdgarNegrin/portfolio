@@ -12,11 +12,7 @@
 };*/
 
 const nextConfig = {
-  
-  distDir: 'dist',
-  images: {
-    unoptimized: true,
-  },
+
   async redirects() {
     return [
       {

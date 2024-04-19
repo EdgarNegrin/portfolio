@@ -18,7 +18,7 @@ function Contact() {
         <div className="flex gap-10 bg-black p-3 w-full rounded-t-3xl">
           <Image
             className="rounded-[100px]"
-            src="../../../public/FotoOrla.jpg"
+            src="/FotoOrla.jpg"
             height={60}
             width={60}
             alt="Profile image"

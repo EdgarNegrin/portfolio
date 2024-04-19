@@ -17,8 +17,8 @@ function About() {
               <h1 className="acorn-bold text-6xl">Software developer</h1>
             </div>
             <p className="acorn-regular text-lg max-w-[600px]">
-              I'm a software developer with a passion for solve problems. I love to create software that makes 
-              life easier for people, that makes the world a better place.
+              I'm a software developer with a passion for solve problems. I'm enthusiastic about crafting 
+              software solutions that simplify life for individuals and contribute positively to our world.
             </p>
             <p className="acorn-regular text-lg max-w-[600px]">
               I’m currently looking for a job as a software developer.
@@ -34,20 +34,20 @@ function About() {
         </section>
         <section className="hidden md:flex flex-col items-center gap-10 w-[100%]">
           <h2 className="acorn-bold text-2xl max-w-[600px] text-center">
-            If I had to define my life in some way, I would say that I am a person who enjoys the simple things in life.
+            I'm someone who finds joy in life's simple pleasures.
           </h2>
           <div className="flex bg-[#FFFFFF] bg-opacity-[10%] rounded-2xl p-16 gap-32">
             <div className="flex flex-col gap-16">
               <div className="flex flex-col gap-5">
                 <h1 className="acorn-bold text-4xl">Programming</h1>
                 <p className="montserrat font-bold">
-                  I currently workin on some personal projects, so this aspect takes up a significant part of my day.
+                  I currently working on some personal projects, so this aspect takes up a significant part of my day.
                 </p>
               </div>
               <div className="flex flex-col gap-5">
                 <h1 className="acorn-bold text-4xl">Tea</h1>
                 <p className="montserrat font-bold">
-                  In my day, tea is a must, whether I’m working or reading, I love being accompanied by my cup of tea.
+                  In my day, tea is a must. It’s a ritual that helps me relax and focus on my tasks.
                 </p>
               </div>
             </div>
@@ -55,13 +55,13 @@ function About() {
               <div className="flex flex-col gap-5">
                 <h1 className="acorn-bold text-4xl">Sports</h1>
                 <p className="montserrat font-bold">
-                  I’ve been practicing sports since I was a child, and it’s something I’m passionate about. I love to play soccer and volleyball.
+                  I’ve been practicing sports since I was a child, and it’s something I’m passionate about. I love to play football and volleyball.
                 </p>
               </div>
               <div className="flex flex-col gap-5">
-                <h1 className="acorn-bold text-4xl">Read</h1>
+                <h1 className="acorn-bold text-4xl">Movies</h1>
                 <p className="montserrat font-bold">
-                  In my free time, I always like to be reading a book. For me, it’s a moment to forget about the world and immerse myself in an incredible story.
+                  I love movies for the diversity of viewpoints and fascinating stories they offer. Each movie is a window into new perspectives and exciting narratives that allow us to explore different worlds and experiences.
                 </p>
               </div>
             </div>
